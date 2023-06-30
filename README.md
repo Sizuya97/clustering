@@ -5,4 +5,4 @@
 
 В данной работе был проведён кластерный анализ для сегментации потребителей.
 
-Для того чтобы просмотреть работу, необходимо скачать проект, открыть файл game_balance.ipynb в Jupyter Notebooks, установив дистрибутив Anaconda, или пройти по ссылке https://github.com/Sizuya97/clustering/blob/main/clustering.ipynb 
+Для того чтобы просмотреть работу, необходимо скачать проект, открыть файл game_balance.ipynb в Jupyter Notebooks, установив дистрибутив Anaconda, или пройти по ссылке https://github.com/Sizuya97/clustering/blob/main/clustering.ipynb
